@@ -5,14 +5,19 @@
 5    android:versionName="3.4.8" >
 6
 7    <uses-sdk
-7-->C:\Users\LENOVO\AndroidStudioProjects\Robocon\openCVLibrary348\src\main\AndroidManifest.xml:7:5-47
 8        android:minSdkVersion="8"
-8-->C:\Users\LENOVO\AndroidStudioProjects\Robocon\openCVLibrary348\src\main\AndroidManifest.xml:7:5-47
+8-->C:\Users\Abhishek\StudioProjects\Robocon\openCVLibrary348\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="21" />
-9-->C:\Users\LENOVO\AndroidStudioProjects\Robocon\openCVLibrary348\src\main\AndroidManifest.xml:7:15-44
+9-->C:\Users\Abhishek\StudioProjects\Robocon\openCVLibrary348\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.CAMERA" />
-11-->C:\Users\LENOVO\AndroidStudioProjects\Robocon\openCVLibrary348\src\main\AndroidManifest.xml:8:5-65
-11-->C:\Users\LENOVO\AndroidStudioProjects\Robocon\openCVLibrary348\src\main\AndroidManifest.xml:8:22-62
-12
-13</manifest>
+11-->C:\Users\Abhishek\StudioProjects\Robocon\openCVLibrary348\src\main\AndroidManifest.xml:7:5-65
+11-->C:\Users\Abhishek\StudioProjects\Robocon\openCVLibrary348\src\main\AndroidManifest.xml:7:22-62
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\Abhishek\StudioProjects\Robocon\openCVLibrary348\src\main\AndroidManifest.xml:8:5-79
+12-->C:\Users\Abhishek\StudioProjects\Robocon\openCVLibrary348\src\main\AndroidManifest.xml:8:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\Abhishek\StudioProjects\Robocon\openCVLibrary348\src\main\AndroidManifest.xml:9:5-80
+13-->C:\Users\Abhishek\StudioProjects\Robocon\openCVLibrary348\src\main\AndroidManifest.xml:9:22-78
+14
+15</manifest>
